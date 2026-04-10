@@ -10,14 +10,14 @@ const Projects = () => {
             description: "Jinsa Mobiles is a full-stack e-commerce platform for selling mobile phones. It features secure authentication, product management, and a responsive user interface.",
             tech: ["Node.js", "Express.js", "MongoDB", "HTML", "CSS"],
             link: "https://jinsamobiles.online/",
-            github: "#"
+            github: "https://github.com/adhheei/mobiles-ecommerce"
         },
         {
             title: "Personal Portfolio",
             description: "A personal portfolio built with React and a Node.js/Express backend, featuring a contact form that stores messages in MongoDB.",
             tech: ["React", "Node.js", "Express.js", "MongoDB"],
             link: "https://personal-portfolio-zeta-navy.vercel.app",
-            github: "https://github.com/Adithyamv/Personal-Portfolio.git"
+            github: "https://github.com/adhheei/Personal-Portfolio.git"
         },
         {
             title: "Coming soon",
