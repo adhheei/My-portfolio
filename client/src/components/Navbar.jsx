@@ -19,7 +19,7 @@ const CustomNavbar = () => {
             <Container>
                 <Navbar.Brand href="#home" onClick={() => setExpanded(false)} className="d-flex align-items-center fw-bold text-accent">
                     <Code2 className="me-2" size={32} />
-                    <span style={{ fontSize: '1.5rem' }}>ADITHYA MV</span>
+                    <span style={{ fontSize: '1.5rem' }}>Adithya MV</span>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
